@@ -1,0 +1,21 @@
+{
+  "name": "com.agray.native-extensions",
+  "version": "0.0.1",
+  "displayName": "Native Extensions",
+  "description": "agray native shit",
+  "unity": "2022.2",
+  "unityRelease": "0b15",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.collections": "1.4.0",
+    "com.unity.burst": "1.7.4"
+  },
+  "keywords": [],
+  "author": {
+    "name": "agray",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
